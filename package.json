@@ -1,0 +1,15 @@
+{
+  "name": "pmbot",
+  "version": "1.0.0",
+  "description": "Product Management at your service!",
+  "main": "lib/pmbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.3",
+    "sqlite3": "^3.1.6"
+  }
+}
