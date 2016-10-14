@@ -1,1 +1,1 @@
-node Slacker.js
+worker: node bin/bot.js
